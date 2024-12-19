@@ -1,4 +1,4 @@
-# ML - Klasifikasi Gambar Rock-Paper-Scissors
+# Klasifikasi Gambar Rock-Paper-Scissors
 
 Proyek ini merupakan bagian dari pembelajaran Machine Learning Pemula yang bertujuan untuk membuat model klasifikasi gambar Rock-Paper-Scissors menggunakan TensorFlow dan Google Colaboratory. Berikut adalah detail spesifikasi dan langkah-langkah pengerjaan proyek.
 
